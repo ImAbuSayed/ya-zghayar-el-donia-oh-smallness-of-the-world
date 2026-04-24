@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا صغير الدنيا في قلبي هواك
+> كل نبضٍ في ضلوعي قد ناداك
+> خذني في حضنك كي أنسى الزمان
+> أنت سري في الغرام و الأمان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
