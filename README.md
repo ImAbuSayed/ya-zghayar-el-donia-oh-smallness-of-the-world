@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-zghayar-el-donia-oh-smallness-of-the-world/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Ya Zghayar El Donia – Oh Smallness of the World](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
