@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ya Zghayar El Donia – Oh Smallness of the World
+
+This log tracks the cryptographic history and versioning for the song **Ya Zghayar El Donia – Oh Smallness of the World** (ya-zghayar-el-donia-oh-smallness-of-the-world).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T11:14:22.660504 | `v1` | `26159055cf1f8d5413affe36b96011365761c0b1bc761d963d4eb77e5795b82f` | `61f195cca436aa08fef46394b2d6d9e96d43da13606c42b3d0f2390d4276dde7` | `2026-05-09_ya-zghayar-el-donia-oh-smallness-of-the-world-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
